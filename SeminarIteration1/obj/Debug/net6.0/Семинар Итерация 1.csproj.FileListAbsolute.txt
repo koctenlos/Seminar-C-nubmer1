@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\Семинар Итерация 1.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\Семинар Итерация 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\Семинар Итерация 1.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\Семинар Итерация 1.AssemblyInfo.cs
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\Семинар Итерация 1.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\bin\Debug\net6.0\Семинар Итерация 1.exe
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\bin\Debug\net6.0\Семинар Итерация 1.deps.json
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\bin\Debug\net6.0\Семинар Итерация 1.runtimeconfig.json
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\bin\Debug\net6.0\Семинар Итерация 1.dll
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\bin\Debug\net6.0\Семинар Итерация 1.pdb
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\Семинар Итерация 1.dll
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\refint\Семинар Итерация 1.dll
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\Семинар Итерация 1.pdb
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\Семинар Итерация 1.genruntimeconfig.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\Семинар Итерация 1\obj\Debug\net6.0\ref\Семинар Итерация 1.dll
