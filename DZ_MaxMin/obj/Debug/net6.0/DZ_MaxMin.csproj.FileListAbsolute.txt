@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\bin\Debug\net6.0\DZ_MaxMin.exe
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\bin\Debug\net6.0\DZ_MaxMin.deps.json
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\bin\Debug\net6.0\DZ_MaxMin.runtimeconfig.json
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\bin\Debug\net6.0\DZ_MaxMin.dll
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\bin\Debug\net6.0\DZ_MaxMin.pdb
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\DZ_MaxMin.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\DZ_MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\DZ_MaxMin.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\DZ_MaxMin.AssemblyInfo.cs
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\DZ_MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\DZ_MaxMin.dll
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\refint\DZ_MaxMin.dll
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\DZ_MaxMin.pdb
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\DZ_MaxMin.genruntimeconfig.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\DZ_MaxMin\obj\Debug\net6.0\ref\DZ_MaxMin.dll
