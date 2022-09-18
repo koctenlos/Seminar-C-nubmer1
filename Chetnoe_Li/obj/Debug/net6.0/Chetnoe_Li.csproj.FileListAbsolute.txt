@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\Chetnoe_Li.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\Chetnoe_Li.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\Chetnoe_Li.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\Chetnoe_Li.AssemblyInfo.cs
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\Chetnoe_Li.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\bin\Debug\net6.0\Chetnoe_Li.exe
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\bin\Debug\net6.0\Chetnoe_Li.deps.json
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\bin\Debug\net6.0\Chetnoe_Li.runtimeconfig.json
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\bin\Debug\net6.0\Chetnoe_Li.dll
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\bin\Debug\net6.0\Chetnoe_Li.pdb
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\Chetnoe_Li.dll
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\refint\Chetnoe_Li.dll
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\Chetnoe_Li.pdb
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\Chetnoe_Li.genruntimeconfig.cache
+C:\Users\Danil\Desktop\GB\С# семинар 1\Chetnoe_Li\obj\Debug\net6.0\ref\Chetnoe_Li.dll
